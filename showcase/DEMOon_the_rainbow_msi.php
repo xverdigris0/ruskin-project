@@ -4,11 +4,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui"/>
 <meta name="apple-mobile-web-app-capable" content="yes"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link href="witness_styles.css" rel="stylesheet" type="text/css" />
 <link rel="icon" 
 	type="image/png" 
 	href="../images/ruskin_icon.png">
 <title>Now Showcasing: "On the Rainbow: In Blank Verse" (MS I)</title>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript">
 
@@ -468,7 +470,8 @@ $(document).ready(function(){
    <div class="pageNum-top-right">105</div><br/> 
    <span class="lg-stanza">
       <span class="l"><span class="space" style="padding-left:0.4em"> </span><span class="caps">T</span><span class="smallcaps">he</span> rainbows beauties<div class="runover" style="left:1.6em">are my joy.</div></span><br/>
-      <span class="l"><span class="space" style="padding-left:0.4em"> </span>in rains where rainbows are the be<span class="g-insertion">/</span><div class="add-above" style="left:14.0em">,</div><span class="glosses"><a href="../glosses/on_the_rainbow_glosses2.php#GLYPHINSERTION1" target="_blank">1</a></span></span><br/>
+      <span class="l"><span class="space" style="padding-left:0.4em"> </span>in rains where rainbows are the be<span class="g-insertion">/</span><div class="add-above" style="left:14.0em">,</div><span class="giverscore_tooltip"><sup>1</sup></span></span><br/>
+	  <script>jQuery(document).ready(function() {$('.giverscore_tooltip').popover({trigger:'hover',content:'write a review, create a keyword, invite a friend, and more.', placement:'top'    });});</script>
       <span class="l">and shoot <span class="subst-del"><span class="gap" style="padding-left:0.4em"> </span></span><span class="subst-add-overwriting">t</span>hose rays of light to me<span class="g-insertion">/</span><div class="add-above" style="left:14.0em">,</div><span class="glosses"><a href="../glosses/on_the_rainbow_glosses2.php#GLYPHINSERTION2" target="_blank">2</a></span></span><br/>
       <span class="l">whe<span class="subst-del">n<span class="space" style="padding-left:0.4em"> </span></span><span class="subst-add-overwriting">re</span>all the beauties of them are,</span><br/>
       <span class="l">and those that see them all<span class="subst-del">r</span><span class="subst-add-overwriting"><span class="space" style="padding-left:0.4em"> </span>r</span>eflect.<span class="glosses"><a href="../glosses/on_the_rainbow_glosses2.php#ERASUREBYBOLD1" target="_blank">3</a></span><span class="glosses"><a href="../glosses/on_the_rainbow_glosses2.php#PAUSEPERIOD" target="_blank">4</a></span></span><br/>
